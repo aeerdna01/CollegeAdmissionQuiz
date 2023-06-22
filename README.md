@@ -1,5 +1,5 @@
 # CollegeAdmissionsQuiz - C# Windows Forms App
-C# Windows Forms App following the MVC architecture, powered by the .NET framework. It also incorporates Class Library projects for modularity and Unit Test Projects for robust testing. DB Browser is employed for question storage.
+C# Windows Forms App following the MVC architecture and powered by the .NET framework. It also incorporates Class Library projects for modularity and Unit Test Projects for robust testing. DB Browser is employed for question storage.
 
 Developed a self-assessment application simulating university admission exams. Users can choose between Mathematics and Computer Science subjects, answer 10 timed questions, and receive instant feedback on correct answers. The results are displayed as "Accepted" or "Rejected," providing an indication of performance. The application allows users to review and retake tests for further practice and improvement.
 

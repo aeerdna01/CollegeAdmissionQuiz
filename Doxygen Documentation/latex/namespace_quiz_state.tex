@@ -1,0 +1,13 @@
+\hypertarget{namespace_quiz_state}{}\doxysection{Quiz\+State Namespace Reference}
+\label{namespace_quiz_state}\index{QuizState@{QuizState}}
+\doxysubsection*{Classes}
+\begin{DoxyCompactItemize}
+\item 
+class \mbox{\hyperlink{class_quiz_state_1_1_end_state}{End\+State}}
+\begin{DoxyCompactList}\small\item\em Clasa End\+State este o clasă de stare a sablonului State. Aceasta implementează interfața IQuiz\+State și are rolul de a afișa interfața grafică pentru starea finală a testului. Se va afișa punctajul obținut cu posibilitatea de vizualizare a răspunsurilor corecte. \end{DoxyCompactList}\item 
+interface \mbox{\hyperlink{interface_quiz_state_1_1_i_quiz_state}{IQuiz\+State}}
+\begin{DoxyCompactList}\small\item\em Interfața IQuiz\+State definește metoda Display() pe care fiecare stare a sablonului State o va implementa. Sablonul de proiectare State se bazează pe ideea de a permite unui obiect să își schimbe comportamentul atunci când starea internă se schimbă.\+Acesta permite unei clase să-\/și schimbe comportamentul atunci când este invocată o anumită metodă, fără a modifica codul care apelează acea metodă. În implementarea sa, sablonul State implică crearea unei ierarhii de clase de stare care implementează o interfață comună. Această interfață definește metodele care vor fi utilizate de context pentru a modifica comportamentul său. /summary\texorpdfstring{$>$}{>} \end{DoxyCompactList}\item 
+class \mbox{\hyperlink{class_quiz_state_1_1_question_state}{Question\+State}}
+\begin{DoxyCompactList}\small\item\em Clasa Question\+State este o clasă de stare a sablonului State. Aceasta implementează interfața IQuiz\+State și are rolul de a afișa interfața grafică pentru momentul în care utilizatorul parcurge simularea de test. Se va afișa întrebarea curentă și cronometrul. \end{DoxyCompactList}\item 
+class \mbox{\hyperlink{class_quiz_state_1_1_start_state}{Start\+State}}
+\begin{DoxyCompactList}\small\item\em Clasa Start\+State este o clasă de stare a sablonului State. Aceasta implementează interfața IQuiz\+State și are rolul de a afișa interfața grafică pentru comportamentul stării de început a aplicației. Se va afișa lista de materii pentru care se dorește susținerea testului și posibilitatea de a intra în setările aplicației. \end{DoxyCompactList}\end{DoxyCompactItemize}

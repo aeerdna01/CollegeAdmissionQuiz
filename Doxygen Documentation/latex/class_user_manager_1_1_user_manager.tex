@@ -1,0 +1,70 @@
+\hypertarget{class_user_manager_1_1_user_manager}{}\doxysection{User\+Manager.\+User\+Manager Class Reference}
+\label{class_user_manager_1_1_user_manager}\index{UserManager.UserManager@{UserManager.UserManager}}
+
+
+Clasa \mbox{\hyperlink{namespace_user_manager}{User\+Manager}} gestionează operațiile pe utilizatori și se ocupă de interogarea bazei de date pentru a prelua și salva datele utilizatorilor.  
+
+
+\doxysubsection*{Classes}
+\begin{DoxyCompactItemize}
+\item 
+struct \mbox{\hyperlink{struct_user_manager_1_1_user_manager_1_1_user}{User}}
+\begin{DoxyCompactList}\small\item\em Structură pentru stocarea informațiilor despre un utilizator. \end{DoxyCompactList}\end{DoxyCompactItemize}
+\doxysubsection*{Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+\mbox{\Hypertarget{class_user_manager_1_1_user_manager_ae2d69f4061db627e55f6009c04041a0e}\label{class_user_manager_1_1_user_manager_ae2d69f4061db627e55f6009c04041a0e}} 
+{\bfseries User\+Manager} ()
+\begin{DoxyCompactList}\small\item\em Constructorul clasei \mbox{\hyperlink{namespace_user_manager}{User\+Manager}}. Inițializează lista de utilizatori cu o listă nouă vidă. \end{DoxyCompactList}\item 
+void \mbox{\hyperlink{class_user_manager_1_1_user_manager_a72b95506b959f6e8127c316bb08f8dd1}{Add\+User}} (string nume, string prenume, string nume\+Utilizator, string parola)
+\begin{DoxyCompactList}\small\item\em Adaugă un utilizator în baza de date. \end{DoxyCompactList}\item 
+\mbox{\Hypertarget{class_user_manager_1_1_user_manager_a76e9660f4c3ebe9a8a9d28b1b1c12606}\label{class_user_manager_1_1_user_manager_a76e9660f4c3ebe9a8a9d28b1b1c12606}} 
+void {\bfseries Read\+Users} ()
+\begin{DoxyCompactList}\small\item\em Citeste utilizatorii din baza de date și îi adaugă în lista \+\_\+users. \end{DoxyCompactList}\item 
+List$<$ \mbox{\hyperlink{struct_user_manager_1_1_user_manager_1_1_user}{User}} $>$ \mbox{\hyperlink{class_user_manager_1_1_user_manager_ae256c085bef9a9af575e057cfe590c61}{Get\+Users}} ()
+\begin{DoxyCompactList}\small\item\em Returnează o listă cu toți utilizatorii din baza de date. Metoda citeste utilizatorii din baza de date folosind metoda privată Read\+Users(). \end{DoxyCompactList}\end{DoxyCompactItemize}
+
+
+\doxysubsection{Detailed Description}
+Clasa \mbox{\hyperlink{namespace_user_manager}{User\+Manager}} gestionează operațiile pe utilizatori și se ocupă de interogarea bazei de date pentru a prelua și salva datele utilizatorilor. 
+
+\doxysubsection{Member Function Documentation}
+\mbox{\Hypertarget{class_user_manager_1_1_user_manager_a72b95506b959f6e8127c316bb08f8dd1}\label{class_user_manager_1_1_user_manager_a72b95506b959f6e8127c316bb08f8dd1}} 
+\index{UserManager.UserManager@{UserManager.UserManager}!AddUser@{AddUser}}
+\index{AddUser@{AddUser}!UserManager.UserManager@{UserManager.UserManager}}
+\doxysubsubsection{\texorpdfstring{AddUser()}{AddUser()}}
+{\footnotesize\ttfamily void User\+Manager.\+User\+Manager.\+Add\+User (\begin{DoxyParamCaption}\item[{string}]{nume,  }\item[{string}]{prenume,  }\item[{string}]{nume\+Utilizator,  }\item[{string}]{parola }\end{DoxyParamCaption})}
+
+
+
+Adaugă un utilizator în baza de date. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em nume} & Numele utilizatorului.\\
+\hline
+{\em prenume} & Prenumele utilizatorului.\\
+\hline
+{\em nume\+Utilizator} & Numele de utilizator.\\
+\hline
+{\em parola} & Parola utilizatorului.\\
+\hline
+\end{DoxyParams}
+\mbox{\Hypertarget{class_user_manager_1_1_user_manager_ae256c085bef9a9af575e057cfe590c61}\label{class_user_manager_1_1_user_manager_ae256c085bef9a9af575e057cfe590c61}} 
+\index{UserManager.UserManager@{UserManager.UserManager}!GetUsers@{GetUsers}}
+\index{GetUsers@{GetUsers}!UserManager.UserManager@{UserManager.UserManager}}
+\doxysubsubsection{\texorpdfstring{GetUsers()}{GetUsers()}}
+{\footnotesize\ttfamily List$<$ \mbox{\hyperlink{struct_user_manager_1_1_user_manager_1_1_user}{User}} $>$ User\+Manager.\+User\+Manager.\+Get\+Users (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})}
+
+
+
+Returnează o listă cu toți utilizatorii din baza de date. Metoda citeste utilizatorii din baza de date folosind metoda privată Read\+Users(). 
+
+\begin{DoxyReturn}{Returns}
+O listă cu toți utilizatorii din baza de date
+\end{DoxyReturn}
+
+
+The documentation for this class was generated from the following file\+:\begin{DoxyCompactItemize}
+\item 
+User\+Manager/User\+Manager.\+cs\end{DoxyCompactItemize}

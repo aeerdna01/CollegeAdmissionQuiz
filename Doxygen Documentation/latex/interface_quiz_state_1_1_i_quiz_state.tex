@@ -1,0 +1,48 @@
+\hypertarget{interface_quiz_state_1_1_i_quiz_state}{}\doxysection{Quiz\+State.\+IQuiz\+State Interface Reference}
+\label{interface_quiz_state_1_1_i_quiz_state}\index{QuizState.IQuizState@{QuizState.IQuizState}}
+
+
+Interfața IQuiz\+State definește metoda Display() pe care fiecare stare a sablonului State o va implementa. Sablonul de proiectare State se bazează pe ideea de a permite unui obiect să își schimbe comportamentul atunci când starea internă se schimbă.\+Acesta permite unei clase să-\/și schimbe comportamentul atunci când este invocată o anumită metodă, fără a modifica codul care apelează acea metodă. În implementarea sa, sablonul State implică crearea unei ierarhii de clase de stare care implementează o interfață comună. Această interfață definește metodele care vor fi utilizate de context pentru a modifica comportamentul său. /summary\texorpdfstring{$>$}{>}  
+
+
+Inheritance diagram for Quiz\+State.\+IQuiz\+State\+:\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[height=2.000000cm]{interface_quiz_state_1_1_i_quiz_state}
+\end{center}
+\end{figure}
+\doxysubsection*{Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+void \mbox{\hyperlink{interface_quiz_state_1_1_i_quiz_state_a92de8db4a3f86e53a7bfa0f2225a94bc}{Display}} (Form owner)
+\begin{DoxyCompactList}\small\item\em Metoda Display() este implementată de fiecare clasă de stare și are rolul de a afișa interfața grafică corespunzătoare stării curente. \end{DoxyCompactList}\end{DoxyCompactItemize}
+
+
+\doxysubsection{Detailed Description}
+Interfața IQuiz\+State definește metoda Display() pe care fiecare stare a sablonului State o va implementa. Sablonul de proiectare State se bazează pe ideea de a permite unui obiect să își schimbe comportamentul atunci când starea internă se schimbă.\+Acesta permite unei clase să-\/și schimbe comportamentul atunci când este invocată o anumită metodă, fără a modifica codul care apelează acea metodă. În implementarea sa, sablonul State implică crearea unei ierarhii de clase de stare care implementează o interfață comună. Această interfață definește metodele care vor fi utilizate de context pentru a modifica comportamentul său. /summary\texorpdfstring{$>$}{>} 
+
+\doxysubsection{Member Function Documentation}
+\mbox{\Hypertarget{interface_quiz_state_1_1_i_quiz_state_a92de8db4a3f86e53a7bfa0f2225a94bc}\label{interface_quiz_state_1_1_i_quiz_state_a92de8db4a3f86e53a7bfa0f2225a94bc}} 
+\index{QuizState.IQuizState@{QuizState.IQuizState}!Display@{Display}}
+\index{Display@{Display}!QuizState.IQuizState@{QuizState.IQuizState}}
+\doxysubsubsection{\texorpdfstring{Display()}{Display()}}
+{\footnotesize\ttfamily void Quiz\+State.\+IQuiz\+State.\+Display (\begin{DoxyParamCaption}\item[{Form}]{owner }\end{DoxyParamCaption})}
+
+
+
+Metoda Display() este implementată de fiecare clasă de stare și are rolul de a afișa interfața grafică corespunzătoare stării curente. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em owner} & Form-\/ul pe care îl afișează starea curentă.\\
+\hline
+\end{DoxyParams}
+
+
+Implemented in \mbox{\hyperlink{class_quiz_state_1_1_end_state_a139e7d83095e6d4140cba4e3bab4de35}{Quiz\+State.\+End\+State}}, \mbox{\hyperlink{class_quiz_state_1_1_question_state_a16eef97da03f3db827be3c38ce879760}{Quiz\+State.\+Question\+State}}, and \mbox{\hyperlink{class_quiz_state_1_1_start_state_a48a0a511237cb527946eb0d22106c280}{Quiz\+State.\+Start\+State}}.
+
+
+
+The documentation for this interface was generated from the following file\+:\begin{DoxyCompactItemize}
+\item 
+Quiz\+State/IQuiz\+State.\+cs\end{DoxyCompactItemize}

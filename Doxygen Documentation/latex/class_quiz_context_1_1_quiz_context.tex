@@ -1,0 +1,116 @@
+\hypertarget{class_quiz_context_1_1_quiz_context}{}\doxysection{Quiz\+Context.\+Quiz\+Context Class Reference}
+\label{class_quiz_context_1_1_quiz_context}\index{QuizContext.QuizContext@{QuizContext.QuizContext}}
+
+
+Clasa \mbox{\hyperlink{namespace_quiz_context}{Quiz\+Context}} ceste clasa care gestionează starea quiz-\/ului și întrebările asociate.  
+
+
+\doxysubsection*{Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+\mbox{\Hypertarget{class_quiz_context_1_1_quiz_context_a82eab74da43d495f8ecf7c84ca52ca5d}\label{class_quiz_context_1_1_quiz_context_a82eab74da43d495f8ecf7c84ca52ca5d}} 
+{\bfseries Quiz\+Context} ()
+\begin{DoxyCompactList}\small\item\em Constructorul clasei care inițializează scorul cu zero și starea curentă a quiz-\/ului cu starea de start. \end{DoxyCompactList}\item 
+void \mbox{\hyperlink{class_quiz_context_1_1_quiz_context_ab98b55996a4ebcf6c92453fff08aeffd}{Set\+State}} (\mbox{\hyperlink{interface_quiz_state_1_1_i_quiz_state}{IQuiz\+State}} state)
+\begin{DoxyCompactList}\small\item\em Setează starea curentă a quiz-\/ului cu starea dată ca parametru. \end{DoxyCompactList}\item 
+void \mbox{\hyperlink{class_quiz_context_1_1_quiz_context_afbbfdaec230b61b0a1380bb66fa4f582}{Set\+Question}} (\mbox{\hyperlink{struct_question_manager_1_1_question_manager_1_1_question}{Question\+Manager.\+Question\+Manager.\+Question}}\mbox{[}$\,$\mbox{]} questions)
+\begin{DoxyCompactList}\small\item\em Setează întrebările pentru quiz. \end{DoxyCompactList}\item 
+void \mbox{\hyperlink{class_quiz_context_1_1_quiz_context_a89f899e92a46117153d55c06f361b551}{Display\+State}} (Form owner)
+\begin{DoxyCompactList}\small\item\em Afișează starea curentă a quiz-\/ului. \end{DoxyCompactList}\item 
+\mbox{\Hypertarget{class_quiz_context_1_1_quiz_context_a358ce8582dd6ac1d49b9ecc8107cf23b}\label{class_quiz_context_1_1_quiz_context_a358ce8582dd6ac1d49b9ecc8107cf23b}} 
+void {\bfseries Increase\+Score} ()
+\begin{DoxyCompactList}\small\item\em Incrementează scorul cu 1. \end{DoxyCompactList}\item 
+int \mbox{\hyperlink{class_quiz_context_1_1_quiz_context_a255bbc304fb7ee563540476e1075fce0}{Get\+Score}} ()
+\begin{DoxyCompactList}\small\item\em Returnează scorul curent. \end{DoxyCompactList}\item 
+\mbox{\Hypertarget{class_quiz_context_1_1_quiz_context_abaddaef9f642963e42b692cf655a0d4a}\label{class_quiz_context_1_1_quiz_context_abaddaef9f642963e42b692cf655a0d4a}} 
+void {\bfseries Set\+Score} ()
+\begin{DoxyCompactList}\small\item\em Setează scorul la 0. \end{DoxyCompactList}\item 
+\mbox{\hyperlink{struct_question_manager_1_1_question_manager_1_1_question}{Question\+Manager.\+Question\+Manager.\+Question}} \mbox{\hyperlink{class_quiz_context_1_1_quiz_context_ae7f3fec445f85b0dd8087b3f851d8ec9}{Get\+Question}} (int index)
+\begin{DoxyCompactList}\small\item\em Returnează întrebarea de la indexul dat ca parametru. \end{DoxyCompactList}\end{DoxyCompactItemize}
+
+
+\doxysubsection{Detailed Description}
+Clasa \mbox{\hyperlink{namespace_quiz_context}{Quiz\+Context}} ceste clasa care gestionează starea quiz-\/ului și întrebările asociate. 
+
+\doxysubsection{Member Function Documentation}
+\mbox{\Hypertarget{class_quiz_context_1_1_quiz_context_a89f899e92a46117153d55c06f361b551}\label{class_quiz_context_1_1_quiz_context_a89f899e92a46117153d55c06f361b551}} 
+\index{QuizContext.QuizContext@{QuizContext.QuizContext}!DisplayState@{DisplayState}}
+\index{DisplayState@{DisplayState}!QuizContext.QuizContext@{QuizContext.QuizContext}}
+\doxysubsubsection{\texorpdfstring{DisplayState()}{DisplayState()}}
+{\footnotesize\ttfamily void Quiz\+Context.\+Quiz\+Context.\+Display\+State (\begin{DoxyParamCaption}\item[{Form}]{owner }\end{DoxyParamCaption})}
+
+
+
+Afișează starea curentă a quiz-\/ului. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em owner} & Form-\/ul pe care se va afișa starea curentă.\\
+\hline
+\end{DoxyParams}
+\mbox{\Hypertarget{class_quiz_context_1_1_quiz_context_ae7f3fec445f85b0dd8087b3f851d8ec9}\label{class_quiz_context_1_1_quiz_context_ae7f3fec445f85b0dd8087b3f851d8ec9}} 
+\index{QuizContext.QuizContext@{QuizContext.QuizContext}!GetQuestion@{GetQuestion}}
+\index{GetQuestion@{GetQuestion}!QuizContext.QuizContext@{QuizContext.QuizContext}}
+\doxysubsubsection{\texorpdfstring{GetQuestion()}{GetQuestion()}}
+{\footnotesize\ttfamily \mbox{\hyperlink{struct_question_manager_1_1_question_manager_1_1_question}{Question\+Manager.\+Question\+Manager.\+Question}} Quiz\+Context.\+Quiz\+Context.\+Get\+Question (\begin{DoxyParamCaption}\item[{int}]{index }\end{DoxyParamCaption})}
+
+
+
+Returnează întrebarea de la indexul dat ca parametru. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em index} & Indexul întrebării de returnat\\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+Întrebarea de la indexul dat ca parametru
+\end{DoxyReturn}
+\mbox{\Hypertarget{class_quiz_context_1_1_quiz_context_a255bbc304fb7ee563540476e1075fce0}\label{class_quiz_context_1_1_quiz_context_a255bbc304fb7ee563540476e1075fce0}} 
+\index{QuizContext.QuizContext@{QuizContext.QuizContext}!GetScore@{GetScore}}
+\index{GetScore@{GetScore}!QuizContext.QuizContext@{QuizContext.QuizContext}}
+\doxysubsubsection{\texorpdfstring{GetScore()}{GetScore()}}
+{\footnotesize\ttfamily int Quiz\+Context.\+Quiz\+Context.\+Get\+Score (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})}
+
+
+
+Returnează scorul curent. 
+
+\begin{DoxyReturn}{Returns}
+Scorul curent
+\end{DoxyReturn}
+\mbox{\Hypertarget{class_quiz_context_1_1_quiz_context_afbbfdaec230b61b0a1380bb66fa4f582}\label{class_quiz_context_1_1_quiz_context_afbbfdaec230b61b0a1380bb66fa4f582}} 
+\index{QuizContext.QuizContext@{QuizContext.QuizContext}!SetQuestion@{SetQuestion}}
+\index{SetQuestion@{SetQuestion}!QuizContext.QuizContext@{QuizContext.QuizContext}}
+\doxysubsubsection{\texorpdfstring{SetQuestion()}{SetQuestion()}}
+{\footnotesize\ttfamily void Quiz\+Context.\+Quiz\+Context.\+Set\+Question (\begin{DoxyParamCaption}\item[{\mbox{\hyperlink{struct_question_manager_1_1_question_manager_1_1_question}{Question\+Manager\+::\+Question\+Manager\+::\+Question}}\mbox{[}$\,$\mbox{]}}]{questions }\end{DoxyParamCaption})}
+
+
+
+Setează întrebările pentru quiz. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em questions} & Lista de întrebări de setat\\
+\hline
+\end{DoxyParams}
+\mbox{\Hypertarget{class_quiz_context_1_1_quiz_context_ab98b55996a4ebcf6c92453fff08aeffd}\label{class_quiz_context_1_1_quiz_context_ab98b55996a4ebcf6c92453fff08aeffd}} 
+\index{QuizContext.QuizContext@{QuizContext.QuizContext}!SetState@{SetState}}
+\index{SetState@{SetState}!QuizContext.QuizContext@{QuizContext.QuizContext}}
+\doxysubsubsection{\texorpdfstring{SetState()}{SetState()}}
+{\footnotesize\ttfamily void Quiz\+Context.\+Quiz\+Context.\+Set\+State (\begin{DoxyParamCaption}\item[{\mbox{\hyperlink{interface_quiz_state_1_1_i_quiz_state}{IQuiz\+State}}}]{state }\end{DoxyParamCaption})}
+
+
+
+Setează starea curentă a quiz-\/ului cu starea dată ca parametru. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em state} & Starea de setat\\
+\hline
+\end{DoxyParams}
+
+
+The documentation for this class was generated from the following file\+:\begin{DoxyCompactItemize}
+\item 
+Quiz\+Context/Quiz\+Context.\+cs\end{DoxyCompactItemize}

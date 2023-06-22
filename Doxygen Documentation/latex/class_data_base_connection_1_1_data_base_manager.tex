@@ -1,0 +1,57 @@
+\hypertarget{class_data_base_connection_1_1_data_base_manager}{}\doxysection{Data\+Base\+Connection.\+Data\+Base\+Manager Class Reference}
+\label{class_data_base_connection_1_1_data_base_manager}\index{DataBaseConnection.DataBaseManager@{DataBaseConnection.DataBaseManager}}
+
+
+Clasă pentru gestionarea conexiunii la baza de date. Utilizează șablonul Singleton pentru a asigura o singură instanță a conexiunii la baza de date.  
+
+
+\doxysubsection*{Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+SQLite\+Connection \mbox{\hyperlink{class_data_base_connection_1_1_data_base_manager_a46fcf1e798148ae65c951715dd10433f}{Get\+Connection}} ()
+\begin{DoxyCompactList}\small\item\em Returnează conexiunea la baza de date. Deschide conexiunea dacă aceasta nu este deja deschisă. \end{DoxyCompactList}\item 
+\mbox{\Hypertarget{class_data_base_connection_1_1_data_base_manager_af8c2c21dd120aeda74793eb129d2b79f}\label{class_data_base_connection_1_1_data_base_manager_af8c2c21dd120aeda74793eb129d2b79f}} 
+void {\bfseries Close\+Connection} ()
+\begin{DoxyCompactList}\small\item\em Închide conexiunea la baza de date și eliberează resursele asociate. \end{DoxyCompactList}\end{DoxyCompactItemize}
+\doxysubsection*{Static Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+static \mbox{\hyperlink{class_data_base_connection_1_1_data_base_manager}{Data\+Base\+Manager}} \mbox{\hyperlink{class_data_base_connection_1_1_data_base_manager_ad373e0093a08687f874caa112a7a34d8}{Get\+Instance}} ()
+\begin{DoxyCompactList}\small\item\em Returnează instanța comună la nivel de aplicație a clasei Data\+Base\+Manager, prin intermediul Singleton Design Pattern. \end{DoxyCompactList}\end{DoxyCompactItemize}
+
+
+\doxysubsection{Detailed Description}
+Clasă pentru gestionarea conexiunii la baza de date. Utilizează șablonul Singleton pentru a asigura o singură instanță a conexiunii la baza de date. 
+
+\doxysubsection{Member Function Documentation}
+\mbox{\Hypertarget{class_data_base_connection_1_1_data_base_manager_a46fcf1e798148ae65c951715dd10433f}\label{class_data_base_connection_1_1_data_base_manager_a46fcf1e798148ae65c951715dd10433f}} 
+\index{DataBaseConnection.DataBaseManager@{DataBaseConnection.DataBaseManager}!GetConnection@{GetConnection}}
+\index{GetConnection@{GetConnection}!DataBaseConnection.DataBaseManager@{DataBaseConnection.DataBaseManager}}
+\doxysubsubsection{\texorpdfstring{GetConnection()}{GetConnection()}}
+{\footnotesize\ttfamily SQLite\+Connection Data\+Base\+Connection.\+Data\+Base\+Manager.\+Get\+Connection (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})}
+
+
+
+Returnează conexiunea la baza de date. Deschide conexiunea dacă aceasta nu este deja deschisă. 
+
+\begin{DoxyReturn}{Returns}
+Conexiunea la baza de date sau valoarea null în cazul în care a apărut o eroare la deschiderea conexiunii.
+\end{DoxyReturn}
+\mbox{\Hypertarget{class_data_base_connection_1_1_data_base_manager_ad373e0093a08687f874caa112a7a34d8}\label{class_data_base_connection_1_1_data_base_manager_ad373e0093a08687f874caa112a7a34d8}} 
+\index{DataBaseConnection.DataBaseManager@{DataBaseConnection.DataBaseManager}!GetInstance@{GetInstance}}
+\index{GetInstance@{GetInstance}!DataBaseConnection.DataBaseManager@{DataBaseConnection.DataBaseManager}}
+\doxysubsubsection{\texorpdfstring{GetInstance()}{GetInstance()}}
+{\footnotesize\ttfamily static \mbox{\hyperlink{class_data_base_connection_1_1_data_base_manager}{Data\+Base\+Manager}} Data\+Base\+Connection.\+Data\+Base\+Manager.\+Get\+Instance (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [static]}}
+
+
+
+Returnează instanța comună la nivel de aplicație a clasei Data\+Base\+Manager, prin intermediul Singleton Design Pattern. 
+
+\begin{DoxyReturn}{Returns}
+Instanța unică a clasei Data\+Base\+Manager.
+\end{DoxyReturn}
+
+
+The documentation for this class was generated from the following file\+:\begin{DoxyCompactItemize}
+\item 
+Data\+Base\+Connection/Data\+Base\+Manager.\+cs\end{DoxyCompactItemize}

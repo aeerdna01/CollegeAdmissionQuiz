@@ -1,0 +1,76 @@
+\hypertarget{class_question_manager_1_1_question_manager}{}\doxysection{Question\+Manager.\+Question\+Manager Class Reference}
+\label{class_question_manager_1_1_question_manager}\index{QuestionManager.QuestionManager@{QuestionManager.QuestionManager}}
+
+
+Clasa \mbox{\hyperlink{namespace_question_manager}{Question\+Manager}} se ocupă de interogarea bazei de date pentru a prelua întrebările și răaspunsurile corecte pentru crearea testelor.  
+
+
+\doxysubsection*{Classes}
+\begin{DoxyCompactItemize}
+\item 
+struct \mbox{\hyperlink{struct_question_manager_1_1_question_manager_1_1_question}{Question}}
+\begin{DoxyCompactList}\small\item\em Structură pentru stocarea informațiilor despre o întrebare. \end{DoxyCompactList}\end{DoxyCompactItemize}
+\doxysubsection*{Static Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+static \mbox{\hyperlink{struct_question_manager_1_1_question_manager_1_1_question}{Question}}\mbox{[}$\,$\mbox{]} \mbox{\hyperlink{class_question_manager_1_1_question_manager_a347f2b9cc139163fdfbe8315a7c0ada2}{Get\+Questions}} (string subject)
+\begin{DoxyCompactList}\small\item\em Preia întrebarile din baza de date pentru materia aleasă. \end{DoxyCompactList}\item 
+static \mbox{\hyperlink{struct_question_manager_1_1_question_manager_1_1_question}{Question}}\mbox{[}$\,$\mbox{]} \mbox{\hyperlink{class_question_manager_1_1_question_manager_abe36bd6143fda969318a33dc40e9ec9a}{Generate\+Info\+Questions}} ()
+\begin{DoxyCompactList}\small\item\em Generează 10 întrebări de informatică aleatorii. \end{DoxyCompactList}\item 
+static \mbox{\hyperlink{struct_question_manager_1_1_question_manager_1_1_question}{Question}}\mbox{[}$\,$\mbox{]} \mbox{\hyperlink{class_question_manager_1_1_question_manager_a77eae021c64edbd077ef3964cb7be319}{Generate\+Math\+Questions}} ()
+\begin{DoxyCompactList}\small\item\em Generează 10 întrebări de matematică aleatorii. \end{DoxyCompactList}\end{DoxyCompactItemize}
+
+
+\doxysubsection{Detailed Description}
+Clasa \mbox{\hyperlink{namespace_question_manager}{Question\+Manager}} se ocupă de interogarea bazei de date pentru a prelua întrebările și răaspunsurile corecte pentru crearea testelor. 
+
+\doxysubsection{Member Function Documentation}
+\mbox{\Hypertarget{class_question_manager_1_1_question_manager_abe36bd6143fda969318a33dc40e9ec9a}\label{class_question_manager_1_1_question_manager_abe36bd6143fda969318a33dc40e9ec9a}} 
+\index{QuestionManager.QuestionManager@{QuestionManager.QuestionManager}!GenerateInfoQuestions@{GenerateInfoQuestions}}
+\index{GenerateInfoQuestions@{GenerateInfoQuestions}!QuestionManager.QuestionManager@{QuestionManager.QuestionManager}}
+\doxysubsubsection{\texorpdfstring{GenerateInfoQuestions()}{GenerateInfoQuestions()}}
+{\footnotesize\ttfamily static \mbox{\hyperlink{struct_question_manager_1_1_question_manager_1_1_question}{Question}}\mbox{[}$\,$\mbox{]} Question\+Manager.\+Question\+Manager.\+Generate\+Info\+Questions (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [static]}}
+
+
+
+Generează 10 întrebări de informatică aleatorii. 
+
+\begin{DoxyReturn}{Returns}
+Un array de 10 întrebări.
+\end{DoxyReturn}
+\mbox{\Hypertarget{class_question_manager_1_1_question_manager_a77eae021c64edbd077ef3964cb7be319}\label{class_question_manager_1_1_question_manager_a77eae021c64edbd077ef3964cb7be319}} 
+\index{QuestionManager.QuestionManager@{QuestionManager.QuestionManager}!GenerateMathQuestions@{GenerateMathQuestions}}
+\index{GenerateMathQuestions@{GenerateMathQuestions}!QuestionManager.QuestionManager@{QuestionManager.QuestionManager}}
+\doxysubsubsection{\texorpdfstring{GenerateMathQuestions()}{GenerateMathQuestions()}}
+{\footnotesize\ttfamily static \mbox{\hyperlink{struct_question_manager_1_1_question_manager_1_1_question}{Question}}\mbox{[}$\,$\mbox{]} Question\+Manager.\+Question\+Manager.\+Generate\+Math\+Questions (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [static]}}
+
+
+
+Generează 10 întrebări de matematică aleatorii. 
+
+\begin{DoxyReturn}{Returns}
+Un array de 10 întrebări.
+\end{DoxyReturn}
+\mbox{\Hypertarget{class_question_manager_1_1_question_manager_a347f2b9cc139163fdfbe8315a7c0ada2}\label{class_question_manager_1_1_question_manager_a347f2b9cc139163fdfbe8315a7c0ada2}} 
+\index{QuestionManager.QuestionManager@{QuestionManager.QuestionManager}!GetQuestions@{GetQuestions}}
+\index{GetQuestions@{GetQuestions}!QuestionManager.QuestionManager@{QuestionManager.QuestionManager}}
+\doxysubsubsection{\texorpdfstring{GetQuestions()}{GetQuestions()}}
+{\footnotesize\ttfamily static \mbox{\hyperlink{struct_question_manager_1_1_question_manager_1_1_question}{Question}}\mbox{[}$\,$\mbox{]} Question\+Manager.\+Question\+Manager.\+Get\+Questions (\begin{DoxyParamCaption}\item[{string}]{subject }\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [static]}}
+
+
+
+Preia întrebarile din baza de date pentru materia aleasă. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em subject} & Materia pentru care se preiau intrebarile.\\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+Un array de întrebari.
+\end{DoxyReturn}
+
+
+The documentation for this class was generated from the following file\+:\begin{DoxyCompactItemize}
+\item 
+Question\+Manager/Question\+Manager.\+cs\end{DoxyCompactItemize}

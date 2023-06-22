@@ -1,0 +1,440 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML><HEAD></HEAD><BODY>
+<OBJECT type="text/site properties">
+<param name="FrameName" value="right">
+</OBJECT>
+<UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_user_manager_1_1_user_manager.html#a72b95506b959f6e8127c316bb08f8dd1"><param name="Name" value="AddUser(string nume, string prenume, string numeUtilizator, string parola)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_user_manager_unit_test_1_1_user_manager_unit_test.html#a93560a77c9f3adb592e4f3c79bb0292d"><param name="Name" value="AddUser_Throws_Exception_FirstName_Digit()"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_user_manager_unit_test_1_1_user_manager_unit_test.html#a22513c604423347a77a1fc2d67741631"><param name="Name" value="AddUser_Throws_Exception_FirstName_Length()"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_user_manager_unit_test_1_1_user_manager_unit_test.html#acfa181a1a64edf138f568486eb766989"><param name="Name" value="AddUser_Throws_Exception_LastName_Digit()"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_user_manager_unit_test_1_1_user_manager_unit_test.html#a89f2ef6681ec7053ad262d0518ac5bf6"><param name="Name" value="AddUser_Throws_Exception_LastName_Length()"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_user_manager_unit_test_1_1_user_manager_unit_test.html#acd97ad81d18e8a70ab47ca93578103a4"><param name="Name" value="AddUser_Throws_Exception_Password_Length()"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_user_manager_unit_test_1_1_user_manager_unit_test.html#a35787d071c006812faea276d98257d27"><param name="Name" value="AddUser_Throws_Exception_UserName_Length()"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_data_base_connection_1_1_data_base_manager.html#af8c2c21dd120aeda74793eb129d2b79f"><param name="Name" value="CloseConnection()"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_data_base_connection_unit_test_1_1_data_base_connection_unit_test.html#a71606f5bdee66f79bd73272fecb507eb"><param name="Name" value="CloseConnection_Closes_Connection()"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_data_base_connection_unit_test_1_1_data_base_connection_unit_test.html#ae9bedfdf0f0862f9272cfd2121423b28"><param name="Name" value="CloseConnection_Throws_Exception()"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_data_base_connection.html"><param name="Name" value="DataBaseConnection"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_data_base_connection_1_1_data_base_manager.html"><param name="Name" value="DataBaseConnection::DataBaseManager"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_data_base_connection_1_1_data_base_manager.html"><param name="Name" value="DataBaseConnection::DataBaseManager"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_data_base_connection_1_1_data_base_manager.html#af8c2c21dd120aeda74793eb129d2b79f"><param name="Name" value="CloseConnection()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_data_base_connection_1_1_data_base_manager.html"><param name="Name" value="DataBaseConnection::DataBaseManager"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_data_base_connection_1_1_data_base_manager.html#a46fcf1e798148ae65c951715dd10433f"><param name="Name" value="GetConnection()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_data_base_connection_1_1_data_base_manager.html"><param name="Name" value="DataBaseConnection::DataBaseManager"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_data_base_connection_1_1_data_base_manager.html#ad373e0093a08687f874caa112a7a34d8"><param name="Name" value="GetInstance()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_data_base_connection_unit_test.html"><param name="Name" value="DataBaseConnectionUnitTest"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_data_base_connection_unit_test_1_1_data_base_connection_unit_test.html"><param name="Name" value="DataBaseConnectionUnitTest::DataBaseConnectionUnitTest"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_data_base_connection_unit_test_1_1_data_base_connection_unit_test.html"><param name="Name" value="DataBaseConnectionUnitTest::DataBaseConnectionUnitTest"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_data_base_connection_unit_test_1_1_data_base_connection_unit_test.html#a71606f5bdee66f79bd73272fecb507eb"><param name="Name" value="CloseConnection_Closes_Connection()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_data_base_connection_unit_test_1_1_data_base_connection_unit_test.html"><param name="Name" value="DataBaseConnectionUnitTest::DataBaseConnectionUnitTest"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_data_base_connection_unit_test_1_1_data_base_connection_unit_test.html#ae9bedfdf0f0862f9272cfd2121423b28"><param name="Name" value="CloseConnection_Throws_Exception()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_data_base_connection_unit_test_1_1_data_base_connection_unit_test.html"><param name="Name" value="DataBaseConnectionUnitTest::DataBaseConnectionUnitTest"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_data_base_connection_unit_test_1_1_data_base_connection_unit_test.html#af4a27c32fbd1730f09e348e4009f03da"><param name="Name" value="GetConnection_Returns_Connection()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_data_base_connection_unit_test_1_1_data_base_connection_unit_test.html"><param name="Name" value="DataBaseConnectionUnitTest::DataBaseConnectionUnitTest"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_data_base_connection_unit_test_1_1_data_base_connection_unit_test.html#ab6eafafd94046cf3b865e3992ad53889"><param name="Name" value="GetInstance_Returns_SameInstance()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_quiz_state_1_1_end_state.html#a139e7d83095e6d4140cba4e3bab4de35"><param name="Name" value="Display(Form owner)"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_quiz_state_1_1_end_state.html#a139e7d83095e6d4140cba4e3bab4de35"><param name="Name" value="QuizState::EndState"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="interface_quiz_state_1_1_i_quiz_state.html#a92de8db4a3f86e53a7bfa0f2225a94bc"><param name="Name" value="Display(Form owner)"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="interface_quiz_state_1_1_i_quiz_state.html#a92de8db4a3f86e53a7bfa0f2225a94bc"><param name="Name" value="QuizState::IQuizState"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_quiz_state_1_1_question_state.html#a16eef97da03f3db827be3c38ce879760"><param name="Name" value="Display(Form owner)"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_quiz_state_1_1_question_state.html#a16eef97da03f3db827be3c38ce879760"><param name="Name" value="QuizState::QuestionState"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_quiz_state_1_1_start_state.html#a48a0a511237cb527946eb0d22106c280"><param name="Name" value="Display(Form owner)"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_quiz_state_1_1_start_state.html#a48a0a511237cb527946eb0d22106c280"><param name="Name" value="QuizState::StartState"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_quiz_context_1_1_quiz_context.html#a89f899e92a46117153d55c06f361b551"><param name="Name" value="DisplayState(Form owner)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_teste_simulare_admitere_1_1_end_state_form.html#a8ca6e1b881ec723563b30c11979a51fc"><param name="Name" value="Dispose(bool disposing)"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_teste_simulare_admitere_1_1_end_state_form.html#a8ca6e1b881ec723563b30c11979a51fc"><param name="Name" value="TesteSimulareAdmitere::EndStateForm"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_teste_simulare_admitere_1_1_login_form.html#a00c9ae32a88b46f6bf4b0a6fc557a8c3"><param name="Name" value="Dispose(bool disposing)"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_teste_simulare_admitere_1_1_login_form.html#a00c9ae32a88b46f6bf4b0a6fc557a8c3"><param name="Name" value="TesteSimulareAdmitere::LoginForm"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_teste_simulare_admitere_1_1_question_state_form.html#aa9ec2cf579d4c79b744409d28009056c"><param name="Name" value="Dispose(bool disposing)"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_teste_simulare_admitere_1_1_question_state_form.html#aa9ec2cf579d4c79b744409d28009056c"><param name="Name" value="TesteSimulareAdmitere::QuestionStateForm"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_teste_simulare_admitere_1_1_register_form.html#a6c507d6e33b4b7e5b1ea79b97445e8a7"><param name="Name" value="Dispose(bool disposing)"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_teste_simulare_admitere_1_1_register_form.html#a6c507d6e33b4b7e5b1ea79b97445e8a7"><param name="Name" value="TesteSimulareAdmitere::RegisterForm"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_teste_simulare_admitere_1_1_settings_form.html#a53b0780a9f4cf4020158a62e9c97c9b5"><param name="Name" value="Dispose(bool disposing)"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_teste_simulare_admitere_1_1_settings_form.html#a53b0780a9f4cf4020158a62e9c97c9b5"><param name="Name" value="TesteSimulareAdmitere::SettingsForm"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_teste_simulare_admitere_1_1_start_state_form.html#a27f61d40aaabcc333b2edceb473744b8"><param name="Name" value="Dispose(bool disposing)"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_teste_simulare_admitere_1_1_start_state_form.html#a27f61d40aaabcc333b2edceb473744b8"><param name="Name" value="TesteSimulareAdmitere::StartStateForm"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_teste_simulare_admitere_1_1_teste_simulare_admitere.html#afed2ce5b0a805b48045546992b8d0fb4"><param name="Name" value="Dispose(bool disposing)"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_teste_simulare_admitere_1_1_teste_simulare_admitere.html#afed2ce5b0a805b48045546992b8d0fb4"><param name="Name" value="TesteSimulareAdmitere::TesteSimulareAdmitere"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_teste_simulare_admitere_1_1_end_state_form.html#ab41edb9ab6cfc877e5e1f2e3e9ff6ee9"><param name="Name" value="EndStateForm(List&lt; Question &gt; allQuestions, List&lt; int &gt; userAnswer)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_question_manager_1_1_question_manager.html#abe36bd6143fda969318a33dc40e9ec9a"><param name="Name" value="GenerateInfoQuestions()"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_question_manager_1_1_question_manager.html#abe36bd6143fda969318a33dc40e9ec9a"><param name="Name" value="QuestionManager::QuestionManager"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_question_manager_unit_test_1_1_question_manager_unit_test.html#a5ba32956789d17fd8be4d1a2dc7f705f"><param name="Name" value="GenerateInfoQuestions()"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_question_manager_unit_test_1_1_question_manager_unit_test.html#a5ba32956789d17fd8be4d1a2dc7f705f"><param name="Name" value="QuestionManagerUnitTest::QuestionManagerUnitTest"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_question_manager_1_1_question_manager.html#a77eae021c64edbd077ef3964cb7be319"><param name="Name" value="GenerateMathQuestions()"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_question_manager_1_1_question_manager.html#a77eae021c64edbd077ef3964cb7be319"><param name="Name" value="QuestionManager::QuestionManager"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_question_manager_unit_test_1_1_question_manager_unit_test.html#ab928580c6f66cfc4a7b70f059e53f138"><param name="Name" value="GenerateMathQuestions()"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_question_manager_unit_test_1_1_question_manager_unit_test.html#ab928580c6f66cfc4a7b70f059e53f138"><param name="Name" value="QuestionManagerUnitTest::QuestionManagerUnitTest"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_data_base_connection_1_1_data_base_manager.html#a46fcf1e798148ae65c951715dd10433f"><param name="Name" value="GetConnection()"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_data_base_connection_unit_test_1_1_data_base_connection_unit_test.html#af4a27c32fbd1730f09e348e4009f03da"><param name="Name" value="GetConnection_Returns_Connection()"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_data_base_connection_1_1_data_base_manager.html#ad373e0093a08687f874caa112a7a34d8"><param name="Name" value="GetInstance()"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_data_base_connection_unit_test_1_1_data_base_connection_unit_test.html#ab6eafafd94046cf3b865e3992ad53889"><param name="Name" value="GetInstance_Returns_SameInstance()"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_quiz_context_1_1_quiz_context.html#ae7f3fec445f85b0dd8087b3f851d8ec9"><param name="Name" value="GetQuestion(int index)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_quiz_context_unit_test_1_1_quiz_context_unit_test.html#a713744677d85487c766f573304cdb552"><param name="Name" value="GetQuestion_IsNotNull()"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_quiz_context_unit_test_1_1_quiz_context_unit_test.html#a6aced2d0835ac59ffeb2dca5360cab34"><param name="Name" value="GetQuestion_Size_AreEqual()"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_quiz_context_unit_test_1_1_quiz_context_unit_test.html#a85732006a7efc89d00b656ecc4c87d11"><param name="Name" value="GetQuestion_Throws_Exception()"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_question_manager_1_1_question_manager.html#a347f2b9cc139163fdfbe8315a7c0ada2"><param name="Name" value="GetQuestions(string subject)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_question_manager_unit_test_1_1_question_manager_unit_test.html#a56ef46b492fe9af3c570578c76498e15"><param name="Name" value="GetQuestions_AreEqual_QuestionsSizeInfo()"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_question_manager_unit_test_1_1_question_manager_unit_test.html#acfed9297751a26f1c54ae4ef7d50d8e3"><param name="Name" value="GetQuestions_AreEqual_QuestionsSizeMath()"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_quiz_context_1_1_quiz_context.html#a255bbc304fb7ee563540476e1075fce0"><param name="Name" value="GetScore()"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_quiz_context_unit_test_1_1_quiz_context_unit_test.html#aa4627c07163d3d22094bb75d88430e64"><param name="Name" value="GetScore_AreEqual()"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_user_manager_1_1_user_manager.html#ae256c085bef9a9af575e057cfe590c61"><param name="Name" value="GetUsers()"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_user_manager_unit_test_1_1_user_manager_unit_test.html#a0105361ac21f0f35b83c327174bb6b84"><param name="Name" value="GetUsers_IsNotNull()"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_user_manager_unit_test_1_1_user_manager_unit_test.html#aed8d264f2860d8fb574fd930a6de0e03"><param name="Name" value="GetUsers_Password()"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_user_manager_unit_test_1_1_user_manager_unit_test.html#adbfbd57b6443e7d917f183e3e17a4aa5"><param name="Name" value="GetUsers_Username()"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_quiz_context_1_1_quiz_context.html#a358ce8582dd6ac1d49b9ecc8107cf23b"><param name="Name" value="IncreaseScore()"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_quiz_context_unit_test_1_1_quiz_context_unit_test.html#a0348d706ec4a6943c8bbf6e60820dd59"><param name="Name" value="IncreaseScore_AreEqual()"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_teste_simulare_admitere_1_1_login_form.html#a7e38f29d83cf666507a5a42e7ef7d770"><param name="Name" value="LoginForm(List&lt; UserManager.UserManager.User &gt; users)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="md__r_e_a_d_m_e.html"><param name="Name" value="ProjectIP"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_teste_simulare_admitere_1_1_question_state_form.html#a9e670c57babbda8a300490396f951588"><param name="Name" value="PutQuestions()"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_question_manager_1_1_question_manager_1_1_question.html#ae7776ee23c3cfeae055e614bbc20d218"><param name="Name" value="Question(Image image, int raspuns)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_question_manager.html"><param name="Name" value="QuestionManager"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_question_manager_1_1_question_manager.html"><param name="Name" value="QuestionManager::QuestionManager"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_question_manager_1_1_question_manager_1_1_question.html"><param name="Name" value="QuestionManager::QuestionManager::Question"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_question_manager_1_1_question_manager_1_1_question.html"><param name="Name" value="QuestionManager::QuestionManager::Question"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_question_manager_1_1_question_manager_1_1_question.html#ae7776ee23c3cfeae055e614bbc20d218"><param name="Name" value="Question(Image image, int raspuns)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_question_manager_1_1_question_manager.html"><param name="Name" value="QuestionManager::QuestionManager"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_question_manager_1_1_question_manager.html#abe36bd6143fda969318a33dc40e9ec9a"><param name="Name" value="GenerateInfoQuestions()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_question_manager_1_1_question_manager.html"><param name="Name" value="QuestionManager::QuestionManager"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_question_manager_1_1_question_manager.html#a77eae021c64edbd077ef3964cb7be319"><param name="Name" value="GenerateMathQuestions()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_question_manager_1_1_question_manager.html"><param name="Name" value="QuestionManager::QuestionManager"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_question_manager_1_1_question_manager.html#a347f2b9cc139163fdfbe8315a7c0ada2"><param name="Name" value="GetQuestions(string subject)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_question_manager_unit_test.html"><param name="Name" value="QuestionManagerUnitTest"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_question_manager_unit_test_1_1_question_manager_unit_test.html"><param name="Name" value="QuestionManagerUnitTest::QuestionManagerUnitTest"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_question_manager_unit_test_1_1_question_manager_unit_test.html"><param name="Name" value="QuestionManagerUnitTest::QuestionManagerUnitTest"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_question_manager_unit_test_1_1_question_manager_unit_test.html#a5ba32956789d17fd8be4d1a2dc7f705f"><param name="Name" value="GenerateInfoQuestions()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_question_manager_unit_test_1_1_question_manager_unit_test.html"><param name="Name" value="QuestionManagerUnitTest::QuestionManagerUnitTest"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_question_manager_unit_test_1_1_question_manager_unit_test.html#ab928580c6f66cfc4a7b70f059e53f138"><param name="Name" value="GenerateMathQuestions()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_question_manager_unit_test_1_1_question_manager_unit_test.html"><param name="Name" value="QuestionManagerUnitTest::QuestionManagerUnitTest"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_question_manager_unit_test_1_1_question_manager_unit_test.html#a56ef46b492fe9af3c570578c76498e15"><param name="Name" value="GetQuestions_AreEqual_QuestionsSizeInfo()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_question_manager_unit_test_1_1_question_manager_unit_test.html"><param name="Name" value="QuestionManagerUnitTest::QuestionManagerUnitTest"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_question_manager_unit_test_1_1_question_manager_unit_test.html#acfed9297751a26f1c54ae4ef7d50d8e3"><param name="Name" value="GetQuestions_AreEqual_QuestionsSizeMath()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_question_manager_unit_test_1_1_question_manager_unit_test.html"><param name="Name" value="QuestionManagerUnitTest::QuestionManagerUnitTest"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_question_manager_unit_test_1_1_question_manager_unit_test.html#ab7688ecfffc40389c04f06fd51cf5433"><param name="Name" value="VerifyTheFirstQuestion_Info()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_question_manager_unit_test_1_1_question_manager_unit_test.html"><param name="Name" value="QuestionManagerUnitTest::QuestionManagerUnitTest"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_question_manager_unit_test_1_1_question_manager_unit_test.html#ad855597d8aa4f37c5d41bd357858a257"><param name="Name" value="VerifyTheFirstQuestion_Math()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_teste_simulare_admitere_1_1_question_state_form.html#a948059f8ecbed35e6893c76d69b79553"><param name="Name" value="QuestionStateForm()"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_quiz_context.html"><param name="Name" value="QuizContext"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_quiz_context_1_1_quiz_context.html#a82eab74da43d495f8ecf7c84ca52ca5d"><param name="Name" value="QuizContext()"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_quiz_context_1_1_quiz_context.html"><param name="Name" value="QuizContext::QuizContext"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_quiz_context_1_1_quiz_context.html"><param name="Name" value="QuizContext::QuizContext"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_quiz_context_1_1_quiz_context.html#a89f899e92a46117153d55c06f361b551"><param name="Name" value="DisplayState(Form owner)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_quiz_context_1_1_quiz_context.html"><param name="Name" value="QuizContext::QuizContext"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_quiz_context_1_1_quiz_context.html#ae7f3fec445f85b0dd8087b3f851d8ec9"><param name="Name" value="GetQuestion(int index)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_quiz_context_1_1_quiz_context.html"><param name="Name" value="QuizContext::QuizContext"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_quiz_context_1_1_quiz_context.html#a255bbc304fb7ee563540476e1075fce0"><param name="Name" value="GetScore()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_quiz_context_1_1_quiz_context.html"><param name="Name" value="QuizContext::QuizContext"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_quiz_context_1_1_quiz_context.html#a358ce8582dd6ac1d49b9ecc8107cf23b"><param name="Name" value="IncreaseScore()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_quiz_context_1_1_quiz_context.html"><param name="Name" value="QuizContext::QuizContext"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_quiz_context_1_1_quiz_context.html#a82eab74da43d495f8ecf7c84ca52ca5d"><param name="Name" value="QuizContext()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_quiz_context_1_1_quiz_context.html"><param name="Name" value="QuizContext::QuizContext"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_quiz_context_1_1_quiz_context.html#afbbfdaec230b61b0a1380bb66fa4f582"><param name="Name" value="SetQuestion(QuestionManager.QuestionManager.Question[] questions)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_quiz_context_1_1_quiz_context.html"><param name="Name" value="QuizContext::QuizContext"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_quiz_context_1_1_quiz_context.html#abaddaef9f642963e42b692cf655a0d4a"><param name="Name" value="SetScore()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_quiz_context_1_1_quiz_context.html"><param name="Name" value="QuizContext::QuizContext"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_quiz_context_1_1_quiz_context.html#ab98b55996a4ebcf6c92453fff08aeffd"><param name="Name" value="SetState(IQuizState state)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_quiz_context_unit_test.html"><param name="Name" value="QuizContextUnitTest"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_quiz_context_unit_test_1_1_quiz_context_unit_test.html"><param name="Name" value="QuizContextUnitTest::QuizContextUnitTest"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_quiz_context_unit_test_1_1_quiz_context_unit_test.html"><param name="Name" value="QuizContextUnitTest::QuizContextUnitTest"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_quiz_context_unit_test_1_1_quiz_context_unit_test.html#a713744677d85487c766f573304cdb552"><param name="Name" value="GetQuestion_IsNotNull()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_quiz_context_unit_test_1_1_quiz_context_unit_test.html"><param name="Name" value="QuizContextUnitTest::QuizContextUnitTest"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_quiz_context_unit_test_1_1_quiz_context_unit_test.html#a6aced2d0835ac59ffeb2dca5360cab34"><param name="Name" value="GetQuestion_Size_AreEqual()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_quiz_context_unit_test_1_1_quiz_context_unit_test.html"><param name="Name" value="QuizContextUnitTest::QuizContextUnitTest"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_quiz_context_unit_test_1_1_quiz_context_unit_test.html#a85732006a7efc89d00b656ecc4c87d11"><param name="Name" value="GetQuestion_Throws_Exception()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_quiz_context_unit_test_1_1_quiz_context_unit_test.html"><param name="Name" value="QuizContextUnitTest::QuizContextUnitTest"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_quiz_context_unit_test_1_1_quiz_context_unit_test.html#aa4627c07163d3d22094bb75d88430e64"><param name="Name" value="GetScore_AreEqual()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_quiz_context_unit_test_1_1_quiz_context_unit_test.html"><param name="Name" value="QuizContextUnitTest::QuizContextUnitTest"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_quiz_context_unit_test_1_1_quiz_context_unit_test.html#a0348d706ec4a6943c8bbf6e60820dd59"><param name="Name" value="IncreaseScore_AreEqual()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_quiz_context_unit_test_1_1_quiz_context_unit_test.html"><param name="Name" value="QuizContextUnitTest::QuizContextUnitTest"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_quiz_context_unit_test_1_1_quiz_context_unit_test.html#aacca9b7e31bced3646691419d00aa59f"><param name="Name" value="QuizContext_Constructor_IsNotNull()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_quiz_context_unit_test_1_1_quiz_context_unit_test.html"><param name="Name" value="QuizContextUnitTest::QuizContextUnitTest"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_quiz_context_unit_test_1_1_quiz_context_unit_test.html#a34ebbf65f5f1c2dcf33423800d55cdb0"><param name="Name" value="SetScore_AreEqual()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_quiz_context_unit_test_1_1_quiz_context_unit_test.html#aacca9b7e31bced3646691419d00aa59f"><param name="Name" value="QuizContext_Constructor_IsNotNull()"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_quiz_state.html"><param name="Name" value="QuizState"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_quiz_state_1_1_end_state.html"><param name="Name" value="QuizState::EndState"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_quiz_state_1_1_end_state.html"><param name="Name" value="QuizState::EndState"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_quiz_state_1_1_end_state.html#a139e7d83095e6d4140cba4e3bab4de35"><param name="Name" value="Display(Form owner)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="interface_quiz_state_1_1_i_quiz_state.html"><param name="Name" value="QuizState::IQuizState"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="interface_quiz_state_1_1_i_quiz_state.html"><param name="Name" value="QuizState::IQuizState"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="interface_quiz_state_1_1_i_quiz_state.html#a92de8db4a3f86e53a7bfa0f2225a94bc"><param name="Name" value="Display(Form owner)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_quiz_state_1_1_question_state.html"><param name="Name" value="QuizState::QuestionState"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_quiz_state_1_1_question_state.html"><param name="Name" value="QuizState::QuestionState"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_quiz_state_1_1_question_state.html#a16eef97da03f3db827be3c38ce879760"><param name="Name" value="Display(Form owner)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_quiz_state_1_1_start_state.html"><param name="Name" value="QuizState::StartState"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_quiz_state_1_1_start_state.html"><param name="Name" value="QuizState::StartState"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_quiz_state_1_1_start_state.html#a48a0a511237cb527946eb0d22106c280"><param name="Name" value="Display(Form owner)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_user_manager_1_1_user_manager.html#a76e9660f4c3ebe9a8a9d28b1b1c12606"><param name="Name" value="ReadUsers()"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_teste_simulare_admitere_1_1_register_form.html#a06b2f5917a0ff05d81459013d8b66cc1"><param name="Name" value="RegisterForm(UserManager.UserManager userManager)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_quiz_context_1_1_quiz_context.html#afbbfdaec230b61b0a1380bb66fa4f582"><param name="Name" value="SetQuestion(QuestionManager.QuestionManager.Question[] questions)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_quiz_context_1_1_quiz_context.html#abaddaef9f642963e42b692cf655a0d4a"><param name="Name" value="SetScore()"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_quiz_context_unit_test_1_1_quiz_context_unit_test.html#a34ebbf65f5f1c2dcf33423800d55cdb0"><param name="Name" value="SetScore_AreEqual()"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_quiz_context_1_1_quiz_context.html#ab98b55996a4ebcf6c92453fff08aeffd"><param name="Name" value="SetState(IQuizState state)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_settings_strategy_1_1_limited_time_strategy.html#a4a134b965f001c5c3bcc56038aba692b"><param name="Name" value="SetTimer(QuestionStateForm questionStateForm, string time)"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_settings_strategy_1_1_limited_time_strategy.html#a4a134b965f001c5c3bcc56038aba692b"><param name="Name" value="SettingsStrategy::LimitedTimeStrategy"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_settings_strategy_1_1_strategy.html#ad3baafdf0452f3b12154a48ba641a81e"><param name="Name" value="SetTimer(QuestionStateForm questionStateForm, string time)"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_settings_strategy_1_1_strategy.html#ad3baafdf0452f3b12154a48ba641a81e"><param name="Name" value="SettingsStrategy::Strategy"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_settings_strategy_1_1_unlimited_time_strategy.html#af95efa7cd3e25d60a0ce7fcdb926cdc7"><param name="Name" value="SetTimer(QuestionStateForm questionStateForm, string time)"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_settings_strategy_1_1_unlimited_time_strategy.html#af95efa7cd3e25d60a0ce7fcdb926cdc7"><param name="Name" value="SettingsStrategy::UnlimitedTimeStrategy"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_teste_simulare_admitere_1_1_settings_form.html#aac40b35a664e79135e568ec16bfd8345"><param name="Name" value="SettingsForm(QuestionStateForm _questionStateForm)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_settings_strategy.html"><param name="Name" value="SettingsStrategy"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_settings_strategy_1_1_limited_time_strategy.html"><param name="Name" value="SettingsStrategy::LimitedTimeStrategy"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_settings_strategy_1_1_limited_time_strategy.html"><param name="Name" value="SettingsStrategy::LimitedTimeStrategy"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_settings_strategy_1_1_limited_time_strategy.html#a4a134b965f001c5c3bcc56038aba692b"><param name="Name" value="SetTimer(QuestionStateForm questionStateForm, string time)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_settings_strategy_1_1_strategy.html"><param name="Name" value="SettingsStrategy::Strategy"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_settings_strategy_1_1_strategy.html"><param name="Name" value="SettingsStrategy::Strategy"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_settings_strategy_1_1_strategy.html#ad3baafdf0452f3b12154a48ba641a81e"><param name="Name" value="SetTimer(QuestionStateForm questionStateForm, string time)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_settings_strategy_1_1_unlimited_time_strategy.html"><param name="Name" value="SettingsStrategy::UnlimitedTimeStrategy"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_settings_strategy_1_1_unlimited_time_strategy.html"><param name="Name" value="SettingsStrategy::UnlimitedTimeStrategy"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_settings_strategy_1_1_unlimited_time_strategy.html#af95efa7cd3e25d60a0ce7fcdb926cdc7"><param name="Name" value="SetTimer(QuestionStateForm questionStateForm, string time)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_teste_simulare_admitere_1_1_start_state_form.html#ac24151d47a27ddf5e868c16dc771e60f"><param name="Name" value="StartStateForm()"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_teste_simulare_admitere.html"><param name="Name" value="TesteSimulareAdmitere"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_teste_simulare_admitere_1_1_teste_simulare_admitere.html#ae6bb67b9525f5c88080698198973d1aa"><param name="Name" value="TesteSimulareAdmitere()"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_teste_simulare_admitere_1_1_end_state_form.html"><param name="Name" value="TesteSimulareAdmitere::EndStateForm"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_teste_simulare_admitere_1_1_end_state_form.html"><param name="Name" value="TesteSimulareAdmitere::EndStateForm"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_teste_simulare_admitere_1_1_end_state_form.html#a8ca6e1b881ec723563b30c11979a51fc"><param name="Name" value="Dispose(bool disposing)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_teste_simulare_admitere_1_1_end_state_form.html"><param name="Name" value="TesteSimulareAdmitere::EndStateForm"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_teste_simulare_admitere_1_1_end_state_form.html#ab41edb9ab6cfc877e5e1f2e3e9ff6ee9"><param name="Name" value="EndStateForm(List&lt; Question &gt; allQuestions, List&lt; int &gt; userAnswer)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_teste_simulare_admitere_1_1_login_form.html"><param name="Name" value="TesteSimulareAdmitere::LoginForm"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_teste_simulare_admitere_1_1_login_form.html"><param name="Name" value="TesteSimulareAdmitere::LoginForm"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_teste_simulare_admitere_1_1_login_form.html#a00c9ae32a88b46f6bf4b0a6fc557a8c3"><param name="Name" value="Dispose(bool disposing)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_teste_simulare_admitere_1_1_login_form.html"><param name="Name" value="TesteSimulareAdmitere::LoginForm"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_teste_simulare_admitere_1_1_login_form.html#a7e38f29d83cf666507a5a42e7ef7d770"><param name="Name" value="LoginForm(List&lt; UserManager.UserManager.User &gt; users)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_teste_simulare_admitere_1_1_properties.html"><param name="Name" value="TesteSimulareAdmitere::Properties"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_teste_simulare_admitere_1_1_question_state_form.html"><param name="Name" value="TesteSimulareAdmitere::QuestionStateForm"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_teste_simulare_admitere_1_1_question_state_form.html"><param name="Name" value="TesteSimulareAdmitere::QuestionStateForm"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_teste_simulare_admitere_1_1_question_state_form.html#aa9ec2cf579d4c79b744409d28009056c"><param name="Name" value="Dispose(bool disposing)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_teste_simulare_admitere_1_1_question_state_form.html"><param name="Name" value="TesteSimulareAdmitere::QuestionStateForm"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_teste_simulare_admitere_1_1_question_state_form.html#a9e670c57babbda8a300490396f951588"><param name="Name" value="PutQuestions()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_teste_simulare_admitere_1_1_question_state_form.html"><param name="Name" value="TesteSimulareAdmitere::QuestionStateForm"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_teste_simulare_admitere_1_1_question_state_form.html#a948059f8ecbed35e6893c76d69b79553"><param name="Name" value="QuestionStateForm()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_teste_simulare_admitere_1_1_register_form.html"><param name="Name" value="TesteSimulareAdmitere::RegisterForm"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_teste_simulare_admitere_1_1_register_form.html"><param name="Name" value="TesteSimulareAdmitere::RegisterForm"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_teste_simulare_admitere_1_1_register_form.html#a6c507d6e33b4b7e5b1ea79b97445e8a7"><param name="Name" value="Dispose(bool disposing)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_teste_simulare_admitere_1_1_register_form.html"><param name="Name" value="TesteSimulareAdmitere::RegisterForm"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_teste_simulare_admitere_1_1_register_form.html#a06b2f5917a0ff05d81459013d8b66cc1"><param name="Name" value="RegisterForm(UserManager.UserManager userManager)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_teste_simulare_admitere_1_1_settings_form.html"><param name="Name" value="TesteSimulareAdmitere::SettingsForm"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_teste_simulare_admitere_1_1_settings_form.html"><param name="Name" value="TesteSimulareAdmitere::SettingsForm"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_teste_simulare_admitere_1_1_settings_form.html#a53b0780a9f4cf4020158a62e9c97c9b5"><param name="Name" value="Dispose(bool disposing)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_teste_simulare_admitere_1_1_settings_form.html"><param name="Name" value="TesteSimulareAdmitere::SettingsForm"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_teste_simulare_admitere_1_1_settings_form.html#aac40b35a664e79135e568ec16bfd8345"><param name="Name" value="SettingsForm(QuestionStateForm _questionStateForm)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_teste_simulare_admitere_1_1_start_state_form.html"><param name="Name" value="TesteSimulareAdmitere::StartStateForm"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_teste_simulare_admitere_1_1_start_state_form.html"><param name="Name" value="TesteSimulareAdmitere::StartStateForm"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_teste_simulare_admitere_1_1_start_state_form.html#a27f61d40aaabcc333b2edceb473744b8"><param name="Name" value="Dispose(bool disposing)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_teste_simulare_admitere_1_1_start_state_form.html"><param name="Name" value="TesteSimulareAdmitere::StartStateForm"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_teste_simulare_admitere_1_1_start_state_form.html#ac24151d47a27ddf5e868c16dc771e60f"><param name="Name" value="StartStateForm()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_teste_simulare_admitere_1_1_teste_simulare_admitere.html"><param name="Name" value="TesteSimulareAdmitere::TesteSimulareAdmitere"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_teste_simulare_admitere_1_1_teste_simulare_admitere.html"><param name="Name" value="TesteSimulareAdmitere::TesteSimulareAdmitere"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_teste_simulare_admitere_1_1_teste_simulare_admitere.html#afed2ce5b0a805b48045546992b8d0fb4"><param name="Name" value="Dispose(bool disposing)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_teste_simulare_admitere_1_1_teste_simulare_admitere.html"><param name="Name" value="TesteSimulareAdmitere::TesteSimulareAdmitere"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_teste_simulare_admitere_1_1_teste_simulare_admitere.html#ae6bb67b9525f5c88080698198973d1aa"><param name="Name" value="TesteSimulareAdmitere()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_user_manager_1_1_user_manager_1_1_user.html#af6e1b5aedbde44cc2119a598620ca4ad"><param name="Name" value="User(string nume, string prenume, string numeUtilizator, string parola)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_user_manager.html"><param name="Name" value="UserManager"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_user_manager_1_1_user_manager.html#ae2d69f4061db627e55f6009c04041a0e"><param name="Name" value="UserManager()"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_user_manager_1_1_user_manager.html"><param name="Name" value="UserManager::UserManager"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_user_manager_1_1_user_manager_1_1_user.html"><param name="Name" value="UserManager::UserManager::User"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_user_manager_1_1_user_manager_1_1_user.html"><param name="Name" value="UserManager::UserManager::User"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_user_manager_1_1_user_manager_1_1_user.html#af6e1b5aedbde44cc2119a598620ca4ad"><param name="Name" value="User(string nume, string prenume, string numeUtilizator, string parola)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_user_manager_1_1_user_manager.html"><param name="Name" value="UserManager::UserManager"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_user_manager_1_1_user_manager.html#a72b95506b959f6e8127c316bb08f8dd1"><param name="Name" value="AddUser(string nume, string prenume, string numeUtilizator, string parola)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_user_manager_1_1_user_manager.html"><param name="Name" value="UserManager::UserManager"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_user_manager_1_1_user_manager.html#ae256c085bef9a9af575e057cfe590c61"><param name="Name" value="GetUsers()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_user_manager_1_1_user_manager.html"><param name="Name" value="UserManager::UserManager"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_user_manager_1_1_user_manager.html#a76e9660f4c3ebe9a8a9d28b1b1c12606"><param name="Name" value="ReadUsers()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_user_manager_1_1_user_manager.html"><param name="Name" value="UserManager::UserManager"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_user_manager_1_1_user_manager.html#ae2d69f4061db627e55f6009c04041a0e"><param name="Name" value="UserManager()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_user_manager_unit_test.html"><param name="Name" value="UserManagerUnitTest"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_user_manager_unit_test_1_1_user_manager_unit_test.html"><param name="Name" value="UserManagerUnitTest::UserManagerUnitTest"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_user_manager_unit_test_1_1_user_manager_unit_test.html"><param name="Name" value="UserManagerUnitTest::UserManagerUnitTest"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_user_manager_unit_test_1_1_user_manager_unit_test.html#a93560a77c9f3adb592e4f3c79bb0292d"><param name="Name" value="AddUser_Throws_Exception_FirstName_Digit()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_user_manager_unit_test_1_1_user_manager_unit_test.html"><param name="Name" value="UserManagerUnitTest::UserManagerUnitTest"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_user_manager_unit_test_1_1_user_manager_unit_test.html#a22513c604423347a77a1fc2d67741631"><param name="Name" value="AddUser_Throws_Exception_FirstName_Length()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_user_manager_unit_test_1_1_user_manager_unit_test.html"><param name="Name" value="UserManagerUnitTest::UserManagerUnitTest"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_user_manager_unit_test_1_1_user_manager_unit_test.html#acfa181a1a64edf138f568486eb766989"><param name="Name" value="AddUser_Throws_Exception_LastName_Digit()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_user_manager_unit_test_1_1_user_manager_unit_test.html"><param name="Name" value="UserManagerUnitTest::UserManagerUnitTest"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_user_manager_unit_test_1_1_user_manager_unit_test.html#a89f2ef6681ec7053ad262d0518ac5bf6"><param name="Name" value="AddUser_Throws_Exception_LastName_Length()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_user_manager_unit_test_1_1_user_manager_unit_test.html"><param name="Name" value="UserManagerUnitTest::UserManagerUnitTest"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_user_manager_unit_test_1_1_user_manager_unit_test.html#acd97ad81d18e8a70ab47ca93578103a4"><param name="Name" value="AddUser_Throws_Exception_Password_Length()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_user_manager_unit_test_1_1_user_manager_unit_test.html"><param name="Name" value="UserManagerUnitTest::UserManagerUnitTest"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_user_manager_unit_test_1_1_user_manager_unit_test.html#a35787d071c006812faea276d98257d27"><param name="Name" value="AddUser_Throws_Exception_UserName_Length()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_user_manager_unit_test_1_1_user_manager_unit_test.html"><param name="Name" value="UserManagerUnitTest::UserManagerUnitTest"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_user_manager_unit_test_1_1_user_manager_unit_test.html#a0105361ac21f0f35b83c327174bb6b84"><param name="Name" value="GetUsers_IsNotNull()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_user_manager_unit_test_1_1_user_manager_unit_test.html"><param name="Name" value="UserManagerUnitTest::UserManagerUnitTest"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_user_manager_unit_test_1_1_user_manager_unit_test.html#aed8d264f2860d8fb574fd930a6de0e03"><param name="Name" value="GetUsers_Password()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_user_manager_unit_test_1_1_user_manager_unit_test.html"><param name="Name" value="UserManagerUnitTest::UserManagerUnitTest"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_user_manager_unit_test_1_1_user_manager_unit_test.html#adbfbd57b6443e7d917f183e3e17a4aa5"><param name="Name" value="GetUsers_Username()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_question_manager_unit_test_1_1_question_manager_unit_test.html#ab7688ecfffc40389c04f06fd51cf5433"><param name="Name" value="VerifyTheFirstQuestion_Info()"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_question_manager_unit_test_1_1_question_manager_unit_test.html#ad855597d8aa4f37c5d41bd357858a257"><param name="Name" value="VerifyTheFirstQuestion_Math()"></OBJECT>
+</UL>
+</BODY>
+</HTML>

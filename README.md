@@ -9,7 +9,7 @@ Developed a self-assessment application simulating university admission exams. U
 * Unit Test Project (.NET framework)
 * DB Browser (for question storage)
 * HelpnDoc (for user documentation)
-* Doxygen (for developer documentation
+* Doxygen (for developer documentation)
 
 ## Features
 The major functionalities of the application for end-users are as follows:
